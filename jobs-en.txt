@@ -1,0 +1,354 @@
+
+
+Titulo: Full Stack Software Developer
+Empresa: Boost
+Salario: n/a
+Link: https://www.seek.co.nz/job/73782360?type=promoted&ref=search-standalonea
+
+Titulo: Senior Developer - Wellington or New Zealand Remote
+Empresa: Rockit Recruitment
+Salario: Salary between $120K - $140K
+Link: https://www.seek.co.nz/job/73786473?type=promoted&ref=search-standalonea
+
+Titulo: Looking for a Python Developer to work on some exciting projects
+Empresa: RWA People - Connecting IT people with outstanding jobs
+Salario: Competitive
+Link: https://www.seek.co.nz/job/73783138?type=standout&ref=search-standalonea
+
+Titulo: Senior Python Developer
+Empresa: Robert Half Technology
+Salario: n/a
+Link: https://www.seek.co.nz/job/73690817?type=standard&ref=search-standalonea
+
+Titulo: Intermediate Software Engineer
+Empresa: Crew Technology Recruitment
+Salario: Negotiable depending on experience
+Link: https://www.seek.co.nz/job/73772808?type=standout&ref=search-standalonea
+
+Titulo: Research Software Engineer / Senior Research Software Engineer
+Empresa: University of Canterbury
+Salario: Competitive salary and staff benefits
+Link: https://www.seek.co.nz/job/73781111?type=standout&ref=search-standalonea
+
+Titulo: E tū Union - Software Developer - Auckland
+Empresa: E tu Incorporated
+Salario: From $83,573.87 + laptop + phone
+Link: https://www.seek.co.nz/job/73774732?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: Fisher & Paykel Healthcare
+Salario: n/a
+Link: https://www.seek.co.nz/job/73749696?type=standout&ref=search-standalonea
+
+Titulo: Software Engineers
+Empresa: Kiwibank
+Salario: Competitive salary package + outstanding benefits
+Link: https://www.seek.co.nz/job/73696546?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: PartsTrader
+Salario: n/a
+Link: https://www.seek.co.nz/job/73670985?type=standard&ref=search-standalonea
+
+Titulo: Software Developer and ECU Tuner
+Empresa: Alt Tune Limited
+Salario: $90,000 – $135,000 per year
+Link: https://www.seek.co.nz/job/73696124?type=standout&ref=search-standalonea
+
+Titulo: Software Developer
+Empresa: Vector
+Salario: Income Protection and Life Insurance
+Link: https://www.seek.co.nz/job/73672294?type=standout&ref=search-standalonea
+
+Titulo: Software Engineers
+Empresa: Kiwibank
+Salario: Competitive salary package + outstanding benefits
+Link: https://www.seek.co.nz/job/73696573?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: SPM Assets Ltd
+Salario: n/a
+Link: https://www.seek.co.nz/job/73741511?type=standout&ref=search-standalonea
+
+Titulo: Software Developer
+Empresa: OpenSky Network
+Salario: n/a
+Link: https://www.seek.co.nz/job/73688894?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: Plexure Limited
+Salario: + training budget, health insurance + 3 days wfh
+Link: https://www.seek.co.nz/job/73568966?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: Vernon Systems Ltd
+Salario: $95,000 – $110,000 per year
+Link: https://www.seek.co.nz/job/73448341?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer - Identity
+Empresa: Absolute IT Limited
+Salario: NZD $100,000 - $120,000 p.a.
+Link: https://www.seek.co.nz/job/73405693?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: Starfish Consulting
+Salario: $120 - $140
+Link: https://www.seek.co.nz/job/73572209?type=standard&ref=search-standalonea
+
+Titulo: Full Stack Software Developer
+Empresa: Boost
+Salario: n/a
+Link: https://www.seek.co.nz/job/73782360?type=standout&ref=search-standalonea
+
+Titulo: Senior Data Engineer
+Empresa: Crew Technology Recruitment
+Salario: Up to $125,000, depending on experience
+Link: https://www.seek.co.nz/job/73808402?type=standout&ref=search-standalonea
+
+Titulo: Backend Developer
+Empresa: Likemind
+Salario: n/a
+Link: https://www.seek.co.nz/job/73511628?type=standout&ref=search-standalonea
+
+
+C:\Users\dwn10\Documents\DEV\python>python scrapper.py >> jobs.text
+python: can't open file 'C:\\Users\\dwn10\\Documents\\DEV\\python\\scrapper.py': [Errno 2] No such file or directory
+
+C:\Users\dwn10\Documents\DEV\python>python3 scrapper.py >> jobs.text 
+Python konnte nicht gefunden werden. F³hren Sie die Verkn³pfung ohne Argumente aus, um sie ³ber den Microsoft Store zu installieren, oder deaktivieren Sie diese Verkn³pfung unter
+C:\Users\dwn10\Documents\DEV\python>scrapper.py >> jobs.text
+Der Befehl "scrapper.py" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+C:\Users\dwn10\Documents\DEV\python> python3 scrapper.py >> jobs.txt
+Python konnte nicht gefunden werden. F³hren Sie die Verkn³pfung ohne Argumente aus, um sie ³ber den Microsoft Store zu installieren, oder deaktivieren Sie diese Verkn³pfung unter
+C:\Users\dwn10\Documents\DEV\python>python scrapper.py >> jobs.txt  
+python: can't open file 'C:\\Users\\dwn10\\Documents\\DEV\\python\\scrapper.py': [Errno 2] No such file or directory
+
+C:\Users\dwn10\Documents\DEV\python>C:/Users/dwn10/AppData/Local/Programs/Python/Python311/python.exe c:/Users/dwn10/Documents/DEV/python/scrapper/scrapper.py
+Titulo: Full Stack Software Developer
+Empresa: Boost
+Salario: n/a
+Link: https://www.seek.co.nz/job/73782360?type=promoted&ref=search-standalonea
+
+Titulo: Software Developer and ECU Tuner
+Empresa: Alt Tune Limited
+Salario: $90,000 – $135,000 per year
+Link: https://www.seek.co.nz/job/73696124?type=promoted&ref=search-standalonea
+
+Titulo: Looking for a Python Developer to work on some exciting projects
+Empresa: RWA People - Connecting IT people with outstanding jobs
+Salario: Competitive
+Link: https://www.seek.co.nz/job/73783138?type=standout&ref=search-standalonea
+
+Titulo: Senior Python Developer
+Empresa: Robert Half Technology
+Salario: n/a
+Link: https://www.seek.co.nz/job/73690817?type=standard&ref=search-standalonea
+
+Titulo: Intermediate Software Engineer
+Empresa: Crew Technology Recruitment
+Salario: Negotiable depending on experience
+Link: https://www.seek.co.nz/job/73772808?type=standout&ref=search-standalonea
+
+Titulo: Research Software Engineer / Senior Research Software Engineer
+Empresa: University of Canterbury
+Salario: Competitive salary and staff benefits
+Link: https://www.seek.co.nz/job/73781111?type=standout&ref=search-standalonea
+
+Titulo: E tū Union - Software Developer - Auckland
+Empresa: E tu Incorporated
+Salario: From $83,573.87 + laptop + phone
+Link: https://www.seek.co.nz/job/73774732?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: Fisher & Paykel Healthcare
+Salario: n/a
+Link: https://www.seek.co.nz/job/73749696?type=standout&ref=search-standalonea
+
+Titulo: Software Engineers
+Empresa: Kiwibank
+Salario: Competitive salary package + outstanding benefits
+Link: https://www.seek.co.nz/job/73696546?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: PartsTrader
+Salario: n/a
+Link: https://www.seek.co.nz/job/73670985?type=standard&ref=search-standalonea
+
+Titulo: Software Developer and ECU Tuner
+Empresa: Alt Tune Limited
+Salario: $90,000 – $135,000 per year
+Link: https://www.seek.co.nz/job/73696124?type=standout&ref=search-standalonea
+
+Titulo: Software Developer
+Empresa: Vector
+Salario: Income Protection and Life Insurance
+Link: https://www.seek.co.nz/job/73672294?type=standout&ref=search-standalonea
+
+Titulo: Software Engineers
+Empresa: Kiwibank
+Salario: Competitive salary package + outstanding benefits
+Link: https://www.seek.co.nz/job/73696573?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: SPM Assets Ltd
+Salario: n/a
+Link: https://www.seek.co.nz/job/73741511?type=standout&ref=search-standalonea
+
+Titulo: Software Developer
+Empresa: OpenSky Network
+Salario: n/a
+Link: https://www.seek.co.nz/job/73688894?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: Plexure Limited
+Salario: + training budget, health insurance + 3 days wfh
+Link: https://www.seek.co.nz/job/73568966?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: Vernon Systems Ltd
+Salario: $95,000 – $110,000 per year
+Link: https://www.seek.co.nz/job/73448341?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer - Identity
+Empresa: Absolute IT Limited
+Salario: NZD $100,000 - $120,000 p.a.
+Link: https://www.seek.co.nz/job/73405693?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: Starfish Consulting
+Salario: $120 - $140
+Link: https://www.seek.co.nz/job/73572209?type=standard&ref=search-standalonea
+
+Titulo: Full Stack Software Developer
+Empresa: Boost
+Salario: n/a
+Link: https://www.seek.co.nz/job/73782360?type=standout&ref=search-standalonea
+
+Titulo: Senior Data Engineer
+Empresa: Crew Technology Recruitment
+Salario: Up to $125,000, depending on experience
+Link: https://www.seek.co.nz/job/73808402?type=standout&ref=search-standalonea
+
+Titulo: Backend Developer
+Empresa: Likemind
+Salario: n/a
+Link: https://www.seek.co.nz/job/73511628?type=standout&ref=search-standalonea
+
+
+C:\Users\dwn10\Documents\DEV\python>python scrapper.py >> jobs.txt
+python: can't open file 'C:\\Users\\dwn10\\Documents\\DEV\\python\\scrapper.py': [Errno 2] No such file or directory        
+
+C:\Users\dwn10\Documents\DEV\python>python3 scrapper.py >> jobs.txt
+Python konnte nicht gefunden werden. F³hren Sie die Verkn³pfung ohne Argumente aus, um sie ³ber den Microsoft Store zu installieren, oder deaktivieren Sie diese Verkn³pfung unter
+C:\Users\dwn10\Documents\DEV\python>C:/Users/dwn10/AppData/Local/Programs/Python/Python311/python.exe c:/Users/dwn10/Documents/DEV/python/scrapper/scrapper.py
+Titulo: Software Developer and ECU Tuner
+Empresa: Alt Tune Limited
+Salario: $90,000 – $135,000 per year
+Link: https://www.seek.co.nz/job/73696124?type=promoted&ref=search-standalonea
+
+Titulo: Full Stack Software Developer
+Empresa: Boost
+Salario: n/a
+Link: https://www.seek.co.nz/job/73782360?type=promoted&ref=search-standalonea
+
+Titulo: Looking for a Python Developer to work on some exciting projects
+Empresa: RWA People - Connecting IT people with outstanding jobs
+Salario: Competitive
+Link: https://www.seek.co.nz/job/73783138?type=standout&ref=search-standalonea
+
+Titulo: Senior Python Developer
+Empresa: Robert Half Technology
+Salario: n/a
+Link: https://www.seek.co.nz/job/73690817?type=standard&ref=search-standalonea
+
+Titulo: Intermediate Software Engineer
+Empresa: Crew Technology Recruitment
+Salario: Negotiable depending on experience
+Link: https://www.seek.co.nz/job/73772808?type=standout&ref=search-standalonea
+
+Titulo: Research Software Engineer / Senior Research Software Engineer
+Empresa: University of Canterbury
+Salario: Competitive salary and staff benefits
+Link: https://www.seek.co.nz/job/73781111?type=standout&ref=search-standalonea
+
+Titulo: E tū Union - Software Developer - Auckland
+Empresa: E tu Incorporated
+Salario: From $83,573.87 + laptop + phone
+Link: https://www.seek.co.nz/job/73774732?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: Fisher & Paykel Healthcare
+Salario: n/a
+Link: https://www.seek.co.nz/job/73749696?type=standout&ref=search-standalonea
+
+Titulo: Software Engineers
+Empresa: Kiwibank
+Salario: Competitive salary package + outstanding benefits
+Link: https://www.seek.co.nz/job/73696546?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: PartsTrader
+Salario: n/a
+Link: https://www.seek.co.nz/job/73670985?type=standard&ref=search-standalonea
+
+Titulo: Software Developer and ECU Tuner
+Empresa: Alt Tune Limited
+Salario: $90,000 – $135,000 per year
+Link: https://www.seek.co.nz/job/73696124?type=standout&ref=search-standalonea
+
+Titulo: Software Developer
+Empresa: Vector
+Salario: Income Protection and Life Insurance
+Link: https://www.seek.co.nz/job/73672294?type=standout&ref=search-standalonea
+
+Titulo: Software Engineers
+Empresa: Kiwibank
+Salario: Competitive salary package + outstanding benefits
+Link: https://www.seek.co.nz/job/73696573?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: SPM Assets Ltd
+Salario: n/a
+Link: https://www.seek.co.nz/job/73741511?type=standout&ref=search-standalonea
+
+Titulo: Software Developer
+Empresa: OpenSky Network
+Salario: n/a
+Link: https://www.seek.co.nz/job/73688894?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: Plexure Limited
+Salario: + training budget, health insurance + 3 days wfh
+Link: https://www.seek.co.nz/job/73568966?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer
+Empresa: Vernon Systems Ltd
+Salario: $95,000 – $110,000 per year
+Link: https://www.seek.co.nz/job/73448341?type=standout&ref=search-standalonea
+
+Titulo: Software Engineer - Identity
+Empresa: Absolute IT Limited
+Salario: NZD $100,000 - $120,000 p.a.
+Link: https://www.seek.co.nz/job/73405693?type=standout&ref=search-standalonea
+
+Titulo: Data Engineer
+Empresa: Starfish Consulting
+Salario: $120 - $140
+Link: https://www.seek.co.nz/job/73572209?type=standard&ref=search-standalonea
+
+Titulo: Full Stack Software Developer
+Empresa: Boost
+Salario: n/a
+Link: https://www.seek.co.nz/job/73782360?type=standout&ref=search-standalonea
+
+Titulo: Senior Data Engineer
+Empresa: Crew Technology Recruitment
+Salario: Up to $125,000, depending on experience
+Link: https://www.seek.co.nz/job/73808402?type=standout&ref=search-standalonea
+
+Titulo: Backend Developer
+Empresa: Likemind
+Salario: n/a
+Link: https://www.seek.co.nz/job/73511628?type=standout&ref=search-standalonea
