@@ -1,7 +1,7 @@
 import requests # python3 -m pip install requests beautifulsoup4
 from bs4 import BeautifulSoup
 
-url = "https://www.arbeitsagentur.de/python-jobs?salaryrange=100000-999999&salarytype=annual"
+url = "https://www.seek.co.nz/python-jobs?salaryrange=100000-999999&salarytype=annual"
 
 if "__main__" == __name__:
     page = requests.get(url)
@@ -17,7 +17,7 @@ if "__main__" == __name__:
             titleElement = job.find("a", attrs={"data-automation": "jobTitle"})
             title = titleElement.get_text()
             company = job.find("a", attrs={"data-automation": "jobCompany"}).get_text()
-            joblink = "https://www.arbeitsagentur.de" + titleElement["href"]
+            joblink = "https://www.seek.co.nz" + titleElement["href"]
             salary = job.find("span", attrs={"data-automation": "jobSalary"})
             salary = salary.get_text() if salary else 'n/a'
 
