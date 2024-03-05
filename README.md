@@ -11,7 +11,10 @@ const Projects = {
 ```
 ## Quellen für dieses Projekt
 <ul>
+	<li><a href="https://www.iso.org/standard/76583.html">ISO-Org</a></li>
 	<li><a href="https://dbdiagram.io/">DB-Diagram</a></li>
+	<li><a href="https://dev.mysql.com/downloads/mysql/">MySQL</a></li>
+	<li><a href=" https://www.apachefriends.org/index.html">XAMPP</a></li>
 </ul>
 
 ## Projektbeschreibung
