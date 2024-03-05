@@ -22,3 +22,23 @@ la cuarta de 4s, la quinta de 3s, la sexta de 6s y la séptima de 7s.
 <p align='left'>
 <img src="https://media.giphy.com/media/4T9LWDsGVrMqYPVkSS/giphy.gif" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
 <p align="left">
+
+## Credits:
+
+**Author:**
+
+```bash
+  Darwin Paz
+```
+**Unter der Leitung von:**
+```bash
+  Peter Lübke
+```
+
+```http
+  Abgabetermin:
+```
+
+| Stadt: | Datum:     | Bis:                       |
+| :-------- | :------- | :-------------------------------- |
+| `Darmstadt`      | `Fri - 15.03.2024` | **16:30 Uhr**  |
