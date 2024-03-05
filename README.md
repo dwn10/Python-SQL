@@ -5,7 +5,7 @@ Verwendete Technologien:
 const Projects = {
   	code: ["HTML", "CSS", "Javascript", "SQL"],
 	technologies: {
-	devTool: ["VS-Code", "PHP MyAdmin", "Xampp"]
+	devTool: ["VS-Code", "PHP MyAdmin", "Xampp", "DB-Diagram"]
 	}
 }
 ```
