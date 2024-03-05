@@ -9,15 +9,24 @@ const Projects = {
 	}
 }
 ```
-## Content
+## Inhalt
 <ul>
 	<li><a href="#">LINK</a></li>
 </ul>
 
-## EFECTO CAIDA DE NIEVE
-Las imágenes de la nieve tienen diferentes retrasos de animación para crear un efecto dinámico. 
-La primera imagen tiene un retraso de 2s, la segunda de 1s, la tercera de 3s, 
-la cuarta de 4s, la quinta de 3s, la sexta de 6s y la séptima de 7s.
+## Projektbeschreibung
+- (Optional) Der Kundenwunsch, der noch nicht datenbank-gerecht formuliert ist. Anhand dessen können Sie die Normalisierung demonstrieren (ähnlich Folie 28 und folgende, aber wahrscheinlich komplizierter).
+- Erstellen Sie ein ER-Diagramm.
+- Erstellen Sie ein Relation-Modell.
+- Erstellen Sie ein physikalisches Modell (das Relationenmodell, aber mit Datentypen).
+- Erstellen Sie ein SQL-Skript, das die Datenbank erzeugt.
+- Erstellen Sie ein SQL-Skript, das die Datenbank mit Beispieldaten füllt.
+- Erstellen Sie verschiedene SQL-Statements mit Abfragen, die Fragen zum Datenbestand beantworten
+- Dokumentation, welche die User-Story beschreibt und die Besonderheiten, und in der die Diagramme zu finden sind.
+- Erstellen Sie ein Applikation mit html, css und javascript, um Daten einzugeben, zu ändern, löschen und Abfragen zu tätigen
+
+## Erstellen Sie ein ER-Diagramm:
+
 
 <p align='left'>
 <img src="https://media.giphy.com/media/4T9LWDsGVrMqYPVkSS/giphy.gif" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
@@ -32,7 +41,7 @@ la cuarta de 4s, la quinta de 3s, la sexta de 6s y la séptima de 7s.
 ```
 **Unter der Leitung von:**
 ```bash
-  Peter Lübke
+  Norbert Maier
 ```
 
 ```http
