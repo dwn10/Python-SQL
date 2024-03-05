@@ -1,9 +1,9 @@
 # SQL - LT4V2 - Projekt
-Proyectos creados con las siguientes tecnologías:
+Verwendete Technologien:
 
 ```javascript
 const Projects = {
-  	code: ["HTML", "CSS", "Javascript", "MySQL"],
+  	code: ["HTML", "CSS", "Javascript", "SQL"],
 	technologies: {
 	devTool: ["VS-Code", "PHP MyAdmin", "Xampp"]
 	}
