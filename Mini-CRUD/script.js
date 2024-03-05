@@ -123,7 +123,7 @@ function validarCampos() {
         inpEmail === '' ||
         inpPuesto === ''
     ) {
-        alert('Se deben de llenar todos los campos.')
+        alert('Alle Felder müssen ausgefüllt werden.')
         isValido = false
     } else {
         isValido = true
@@ -135,7 +135,7 @@ function generarPDF(event) {
 
     const tbody = document.querySelector('tbody')
     if(tbody.childElementCount === 0) {
-        alert('No se puede crear el PDF ya que no existen registros en la tabla')
+        alert('Das PDF kann nicht erstellt werden, da in der Tabelle keine Datensätze vorhanden sind.')
         return
     }
     
@@ -144,7 +144,7 @@ function generarPDF(event) {
     
     const doc = new jsPDF()
     doc.text(10, 10, str)
-    doc.save('lista-usuarios.pdf')
+    doc.save('myDoc.pdf')
 }
 
 function recorrerTabla() {
@@ -156,10 +156,10 @@ function recorrerTabla() {
         str += '\n'
         for (let j = 0; j <= table.rows[i].cells.length-1; j++) {
             if(j == 0) {
-                str += '* '
+                str += '> '
             } else {
                 let col = table.rows[i].cells[j].innerText
-                str += `-> ${col}`
+                str += ` | ${col} |`
             }
         }
     }

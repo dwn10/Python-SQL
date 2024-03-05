@@ -38,6 +38,8 @@ body {
     justify-content: center;
     align-items: center;
     color: var(--color-background);
+    margin-top: 4rem;
+    font-size: 4rem;
     text-shadow: 2px 3px 3px rgba(255, 255, 255, 0.842);
 }
 
@@ -53,8 +55,20 @@ body {
     margin: 1rem;
     padding: 1rem;
     border-radius: 0.6rem;
+    font-weight: 300;
     text-align: center;
+    color: var(--color-secondary);
     background-color: var(--color-background);
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.title{
+    text-align: center;
+    font-weight: 600;
+    color: var(--color-secondary);
+    text-shadow: 1px 1px 2px rgba(25, 255, 255, 0.75);
 }
 
 h3 {
@@ -101,7 +115,7 @@ h3 {
     background-color: var(--color-btn-1);
     color: var(--color-background);
     font-size: 1rem;
-    font-weight: bold;
+    font-weight: 600;
     transition: 0.5s;
 }
 
@@ -132,7 +146,7 @@ h3 {
     background-color:  var(--color-btn-1);
     height: 1.5rem;
     border-color: 2px solid var(--color-secondary);
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .btn {
@@ -168,7 +182,7 @@ h3 {
     background-color: var(--color-background);
     color: var(--color-secondary);
     font-size: 1rem;
-    font-weight: bold;
+    font-weight: 600;
     margin-top: 1rem;
     border-radius: 0.2rem;
     border: 0;
