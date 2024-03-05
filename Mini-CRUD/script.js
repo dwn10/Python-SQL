@@ -160,9 +160,9 @@ function recorrerTabla() {
             } else {
                 let col = table.rows[i].cells[j].innerText
                 str += `-> ${col}`
-            }    
+            }
         }
     }
 
-    return str    
+    return str
 }

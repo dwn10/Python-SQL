@@ -1,12 +1,34 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
+/* VARIABLES DEFINITION */
+
+:root{
+    --color-principal: #0ef;
+    --color-secondary: #ffffff;
+
+    --color-background: #081b29;
+    --color-transparent: transparent;
+    --color-new: #6ae90f;
+    --color-btn-1: #06bff7;
+    --color-btn-2: #8fcfe2;
+    --color-btn-3: #926504;
+    --color-btn-4: #6b4a02;
+    --color-btn-5: #cc2900;
+    --color-btn-6: #852209;
+    --color-subtitle: #312f2f;
+    
 }
 
+/*--GENERAL STYLES--*/
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    box-sizing: border-box;
+}
+
+
 body {
-    background-color: rgb(225, 127, 0)
+    background-color: var(--color-btn-1);
 }
 
 .container-title h1 {
@@ -15,7 +37,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #e4e4e4;
+    color: var(--color-background);
+    text-shadow: 2px 3px 3px rgba(255, 255, 255, 0.842);
 }
 
 .container-data {
@@ -31,14 +54,14 @@ body {
     padding: 1rem;
     border-radius: 0.6rem;
     text-align: center;
-    background-color: rgb(43, 43, 43);
+    background-color: var(--color-background);
 }
 
 h3 {
     margin: 0.5rem;
     font-size: 1.5rem;
     text-align: center;
-    color: #e4e4e4;
+    color: var(--color-background);
 }
 
 .input-nombre,
@@ -50,7 +73,7 @@ h3 {
     margin: 0.5rem;
     justify-content: center;
     align-items: center;
-    color: #e4e4e4;
+    color: var(--color-secondary);
 }
 
 .input-nombre label,
@@ -65,7 +88,7 @@ h3 {
 .input-puesto input {
     width: 80%;
     height: 1.7rem;
-    border-radius: 0.3rem;
+    border-radius: 0.2rem;
     border: 0;
     padding-left: 0.5rem;
 }
@@ -73,17 +96,19 @@ h3 {
 .btn-agregar {
     margin-top: 0.5rem;
     padding: 0.3rem 1.5rem;
-    border-radius: 0.5rem;
+    border-radius: 0.2rem;
     border: 0;
-    background-color: rgb(5, 155, 110);
-    color: #e4e4e4;
+    background-color: var(--color-btn-1);
+    color: var(--color-background);
     font-size: 1rem;
+    font-weight: bold;
     transition: 0.5s;
 }
 
 .btn-agregar:hover {
-    background-color: rgb(3, 100, 70);
+    background-color: var(--color-btn-2);
     transition: 0.5s;
+    box-shadow: 0 1px 10px var(--color-new);
 }
 
 .container-data-list {
@@ -93,20 +118,20 @@ h3 {
     padding: 1rem;
     border-radius: 0.6rem;
     text-align: center;
-    background-color: rgb(43, 43, 43);
+    background-color: var(--color-secondary);
 }
 
 .table-usuarios {
     width: 100%;
-    color: #e4e4e4;
-    border: 1px solid #e4e4e4;
+    color: var(--color-background);
+    border: 1px solid var(--color-background);
     border-radius: 0.3rem;
 }
 
 .table-usuarios thead {
-    background-color:  rgb(3, 100, 70);
+    background-color:  var(--color-btn-1);
     height: 1.5rem;
-    border-color: 2px solid #e4e4e4;
+    border-color: 2px solid var(--color-secondary);
     font-weight: bold;
 }
 
@@ -117,34 +142,39 @@ h3 {
     border-radius: 0.2rem;
     border: 0;
     outline: 0;
-    color: #e4e4e4;
+    color: var(--color-secondary);
 }
 
 .btn-editar {
-    background-color: rgb(0, 3, 210);
+    background-color: var(--color-btn-3);
+    color: var(--color-secondary);
 }
 
 .btn-editar:hover {
-    background-color: rgb(0, 2, 140);
+    background-color: var(--color-btn-4);
 }
 
 .btn-borrar {
-    background-color: rgb(200, 25, 0);
+    background-color: var(--color-btn-5);
 }
 
 .btn-borrar:hover {
-    background-color: rgb(140, 19, 0);
+    background-color: var(--color-btn-6);
 }
 
 .btn-generar-pdf {
     width: 20%;
     height: 2rem;
-    background-color:  rgb(0, 180, 120);
-    border-color: 2px solid #e4e4e4;
+    background-color: var(--color-background);
+    color: var(--color-secondary);
+    font-size: 1rem;
     font-weight: bold;
-    margin-top: 1rem  ;
+    margin-top: 1rem;
+    border-radius: 0.2rem;
+    border: 0;
 }
 
 .btn-generar-pdf:hover {
-    background-color:  rgb(3, 100, 70);
+    background-color: var(--color-background);
+    box-shadow: 0 1px 10px var(--color-new);
 }
