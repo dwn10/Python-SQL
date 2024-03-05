@@ -8,6 +8,27 @@
     <link rel="stylesheet" href="./estilos.css">
 </head>
 <body>
+
+    <a href="#eng" data-reload>English</a>
+    <a href="#es" data-reload>Español</a>
+
+    <p id="hi">Welcome everyone!</p>
+    <script>
+        var language = {
+            eng:{
+                welcome: "Welcome everyone!"
+            },
+            es: {
+                welcome: "Bienvenidos todos!"
+            }
+        };
+        if (window.location.hash) {
+            if(window.location.hash === "#es"){
+                hi.textContent = language.es.welcome;
+            }
+        }
+    </script>
+
     <div class="container-title">
         <h1>Mini CRUD</h1>
     </div>
