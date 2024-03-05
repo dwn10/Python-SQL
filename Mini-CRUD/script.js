@@ -47,7 +47,7 @@ function agregarUsuario() {
 
     btnEditar = document.createElement('button')
     btnEditar.classList.add('btn', 'btn-editar')
-    btnEditar.textContent = 'Editar'
+    btnEditar.textContent = 'Bearbeiten'
     btnEditar.onclick = function() {
         isEditando = true
 
@@ -60,7 +60,7 @@ function agregarUsuario() {
         document.getElementById('input-email').value = usuario.email
         document.getElementById('input-puesto').value = usuario.puesto
 
-        document.getElementById('btn-agregar-actualizar').value = 'Editar usuario'
+        document.getElementById('btn-agregar-actualizar').value = 'User bearbeiten'
         document.getElementById('btn-agregar-actualizar').classList.add('btn-editar')
         document.getElementById('btn-agregar-actualizar').classList.remove('btn-crear')
         
@@ -69,7 +69,7 @@ function agregarUsuario() {
 
     btnBorrar = document.createElement('button')
     btnBorrar.classList.add('btn', 'btn-borrar')
-    btnBorrar.textContent = 'Borrar'
+    btnBorrar.textContent = 'Löschen'
     btnBorrar.onclick = function() {
         tr.remove()
     }
@@ -91,7 +91,7 @@ function editarUsuario() {
     trId.childNodes[3].textContent = document.getElementById("input-puesto").value
 
     const btnEditar = document.getElementById("btn-agregar-actualizar")
-    btnEditar.value = "Crear Tarea"
+    btnEditar.value = "User erstellen"
     btnEditar.classList.remove('btn-editar')
     btnEditar.classList.add('btn-crear')
 }

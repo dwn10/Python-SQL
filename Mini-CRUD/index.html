@@ -4,42 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crear PDF</title>
+    <title>Mini CRUD</title>
     <link rel="stylesheet" href="./estilos.css">
 </head>
 <body>
-
-    <a href="#eng" data-reload>English</a>
-    <a href="#es" data-reload>Español</a>
-
-    <p id="hi">Welcome everyone!</p>
-
-    <script>
-        // Define language reload anchors
-        var dataReload = document.querySelectorAll("[data-reload]");
-        // language translations
-        var language = {
-            eng:{
-                welcome: "Welcome everyone!"
-            },
-            es: {
-                welcome: "Bienvenidos todos!"
-            }
-        };
-        // Define language via window hash
-        if (window.location.hash) {
-            if(window.location.hash === "#es"){
-                hi.textContent = language.es.welcome;
-            }
-        }
-
-        // Define language reload onclick illiteration
-        for (i = 0; i <= dataReload.length, i++){
-            dataReload[i].onclick = function() {
-                location.reload(true);
-            };
-        }
-    </script>
 
     <div class="container-title">
         <h1>Mini CRUD</h1>
@@ -49,7 +17,7 @@
         <div class="container-form">
             <h3>Formulario</h3>
             <div class="input-nombre">
-                <label for="nombre">Nombre:</label>
+                <label for="nombre">Name:</label>
                 <input type="text" id="input-nombre">
             </div>
 
@@ -59,27 +27,27 @@
             </div>
 
             <div class="input-puesto">
-                <label for="puesto">Puesto:</label>
+                <label for="puesto">Abteilung:</label>
                 <input type="text" id="input-puesto">
             </div>
 
-            <input 
-                class="btn-agregar" 
-                id="btn-agregar-actualizar" 
-                type="submit" 
-                value="Guardar usuario"
+            <input
+                class="btn-agregar"
+                id="btn-agregar-actualizar"
+                type="submit"
+                value="Benutzer speichern"
                 onclick="accionUsuario(event)">
         </div>
         <div class="container-data-list">
-            <h3>Lista Usuarios</h3>
+            <h3>Benutzerliste</h3>
             <table id="table-usuarios" class="table-usuarios">
                 <thead>
                     <tr>
                         <th>ID</th>
-                        <th>NOMBRE</th>
+                        <th>NAME</th>
                         <th>EMAIL</th>
-                        <th>PUESTO</th>
-                        <th style="column-span: 2;">ACCIONES</th>
+                        <th>ABTEILUNG</th>
+                        <th style="column-span: 2;">ACTIONS</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -87,11 +55,11 @@
                 </tbody>
             </table>
 
-            <input 
-                class=" btn btn-generar-pdf" 
-                type="submit" 
-                id="btn-generar" 
-                value="Generar PDF"
+            <input
+                class=" btn btn-generar-pdf"
+                type="submit"
+                id="btn-generar"
+                value="PDF generieren"
                 onclick="generarPDF(event)">
         </div>
     </div>
