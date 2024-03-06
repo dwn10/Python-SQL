@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Publisher, Autor-->
+    <meta name="author" content="Darwin Paz">
     <title>Mini CRUD</title>
-    <link rel="stylesheet" href="./estilos.css">
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
 
@@ -37,6 +39,7 @@
                 type="submit"
                 value="Benutzer speichern"
                 onclick="accionUsuario(event)">
+
         </div>
         <div class="container-data-list">
             <h3>Benutzerliste</h3>
@@ -63,6 +66,10 @@
                 onclick="generarPDF(event)">
         </div>
     </div>
+    <!--FOOTER-->
+    <footer class="user-info__footer">
+        &copy; 2024 D.Paz | All rights reserved <Br/>Design by LF-VT4V2
+    </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.debug.js"></script>
     <script src="./script.js"></script>
