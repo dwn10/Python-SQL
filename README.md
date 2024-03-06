@@ -33,7 +33,7 @@ const Projects = {
 ## 
 <a href="https://www.youtube.com/watch?v=VB3_bNI_JOQ&ab_channel=ECUADORIT"><img src="https://media.discordapp.net/attachments/1162636685155246140/1162638148199784520/p-12.png?ex=65f53c27&is=65e2c727&hm=a53c990d2a66a6c5eb92277ef977785ae404051be2e27aaedfe7c5d8850fba20&=&format=webp&quality=lossless&width=597&height=597" style="height: 50%; width:50%;"/></a>
 
-<a href="https://www.youtube.com/watch?v=VB3_bNI_JOQ&ab_channel=ECUADORIT"><img src="https://media.discordapp.net/attachments/1185882189393575976/1185902096667644026/QR-generator.gif?ex=65f6cfe4&is=65e45ae4&hm=c7aa090e37b36c0c2e652f594576c630a733ab70e50e525e83383a7188e0ac4e&=&width=1145&height=597" style="height: 50%; width:50%;"/></a>
+<a href="#"><img src="https://media.discordapp.net/attachments/1185882189393575976/1185902096667644026/QR-generator.gif?ex=65f6cfe4&is=65e45ae4&hm=c7aa090e37b36c0c2e652f594576c630a733ab70e50e525e83383a7188e0ac4e&=&width=1145&height=597" width="588" height="306"/></a>
 
 <p align='left'>
 <img src="https://media.giphy.com/media/4T9LWDsGVrMqYPVkSS/giphy.gif" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
