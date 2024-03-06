@@ -33,7 +33,7 @@ const Projects = {
 ## 
 <a href="https://www.youtube.com/watch?v=VB3_bNI_JOQ&ab_channel=ECUADORIT"><img src="https://media.discordapp.net/attachments/1185882189393575976/1214726352989855825/5.JPG?ex=65fa2913&is=65e7b413&hm=3c41444bcd4b4e3ffae1d0bf010d2dc404cb12c189915f8f10a625dd35b8736d&=&format=webp&width=1085&height=597" style="height: 50%; width:50%;"/></a>
 
-<a href="#"><img src="https://media.discordapp.net/attachments/1185882189393575976/1214725647679758406/SQL.gif?ex=65fa286a&is=65e7b36a&hm=418b3270d537153d9ba0e11c29287be7b29dda67b29d4803d0577a30edffea27&=&width=1062&height=597" style="height: 50%; width:50%;"/></a>
+<a href="https://media.discordapp.net/attachments/1185882189393575976/1214725647679758406/SQL.gif?ex=65fa286a&is=65e7b36a&hm=418b3270d537153d9ba0e11c29287be7b29dda67b29d4803d0577a30edffea27&=&width=1062&height=597"><img src="https://media.discordapp.net/attachments/1185882189393575976/1214726352989855825/5.JPG?ex=65fa2913&is=65e7b413&hm=3c41444bcd4b4e3ffae1d0bf010d2dc404cb12c189915f8f10a625dd35b8736d&=&format=webp&width=1085&height=597" style="height: 50%; width:50%;"/></a>
 
 <p align='left'>
 <img src="https://media.giphy.com/media/4T9LWDsGVrMqYPVkSS/giphy.gif" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
