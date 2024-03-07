@@ -29,15 +29,11 @@ const Projects = {
 - Erstellen Sie ein Applikation mit html, css und javascript, um Daten einzugeben, zu ändern, löschen und Abfragen zu tätigen
 
 ## Erstellen Sie ein ER-Diagramm: 
+`>> IMG + VIDEO <<`
 
-## 
 <a href="https://www.youtube.com/watch?v=VB3_bNI_JOQ&ab_channel=ECUADORIT"><img src="https://media.discordapp.net/attachments/1185882189393575976/1214726352989855825/5.JPG?ex=65fa2913&is=65e7b413&hm=3c41444bcd4b4e3ffae1d0bf010d2dc404cb12c189915f8f10a625dd35b8736d&=&format=webp&width=1085&height=597" style="height: 50%; width:50%;"/></a>
 
-<a href="https://media.discordapp.net/attachments/1185882189393575976/1214725647679758406/SQL.gif?ex=65fa286a&is=65e7b36a&hm=418b3270d537153d9ba0e11c29287be7b29dda67b29d4803d0577a30edffea27&=&width=1062&height=597"><img src="https://media.discordapp.net/attachments/1185882189393575976/1214726352989855825/5.JPG?ex=65fa2913&is=65e7b413&hm=3c41444bcd4b4e3ffae1d0bf010d2dc404cb12c189915f8f10a625dd35b8736d&=&format=webp&width=1085&height=597" style="height: 50%; width:50%;"/></a>
-
-<p align='left'>
-<img src="https://media.giphy.com/media/4T9LWDsGVrMqYPVkSS/giphy.gif" width="588" height="306" frameBorder="0" class="" allowFullScreen></img></p>
-<p align="left">
+<a href="https://media.discordapp.net/attachments/1185882189393575976/1215143276919787570/SQL.gif?ex=65fbad5d&is=65e9385d&hm=ebadd7e45bcb408cdbefd453efd1f7e536dfb658ca506f93cba0b1de3908a090&=&width=1062&height=597"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215142862778269749/18.JPG?ex=65fbacfa&is=65e937fa&hm=c17600d3ed6e21abdd34ab82cb81fee527f8169e1eae01cfc8fcb481f68ab454&=&format=webp&width=1439&height=579" style="height: 50%; width:50%;"/></a>
 
 ## Credits:
 
