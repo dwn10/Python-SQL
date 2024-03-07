@@ -31,7 +31,6 @@ const Projects = {
 - Erstellen Sie ein Applikation mit html, css und javascript, um Daten einzugeben, zu ändern, löschen und Abfragen zu tätigen
 
 ## Erstellen Sie ein ER-Diagramm: 
-`>> IMG + VIDEO <<`
 
 <a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215441874479743037/projekt-sql-1.JPG?ex=65fcc374&is=65ea4e74&hm=603126a54b9a526f562b5cea21b4e92ae1176758dff6f367933c553338815de7&=&format=webp&width=1087&height=597" style="height: 80%; width:80%;"/></a>
 
