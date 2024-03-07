@@ -116,7 +116,7 @@ SELECT * FROM `abteilung` WHERE `id_Abteilung`= 1;
 ## Mini-CRUD-App
 
 <ul>
-	<li><a href="#">CODE</a></li>
+	<li><a href="https://github.com/dwn10/Python-SQL/tree/main/Mini-CRUD">CODE</a></li>
 </ul>
 
 ## Credits:
