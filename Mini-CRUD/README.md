@@ -23,7 +23,7 @@ Ein leeres `Benutzerobjekt` wird definiert, um die Informationen des aktuellen B
   - Wenn es bearbeitet wird `(isEditing)`, rufen Sie die Funktion `editUser` auf, um den aktuellen Benutzer zu aktualisieren.
 - Bereinigen Sie das Benutzerobjekt und die Formularfelder mit den Funktionen `cleanObj` und `cleanFields.`
 
-## 4. `addUser`-Funktion:
+## 4. addUser-Funktion:
 - Erzeugt eine eindeutige Kennung für den Benutzer basierend auf der aktuellen Uhrzeit.
 - Ruft die Werte der Formularfelder (Name, E-Mail, Position) ab.
 - Erstellen Sie eine neue Zeile `(tr)` in der Tabelle.
@@ -33,20 +33,20 @@ Ein leeres `Benutzerobjekt` wird definiert, um die Informationen des aktuellen B
 - Die Schaltfläche „Löschen“ löscht die Zeile aus der Tabelle.
 - Fügen Sie die Zeile zur Tabelle hinzu.
 
-## 5. `editUser`-Funktion:
+## 5. editUser-Funktion:
 - Ruft die Tabellenzeile ab, die dem aktuellen Benutzer anhand seiner ID entspricht.
 - Aktualisiert den Inhalt der Zeilenzellen mit den Werten der Formularfelder.
 - Ändern Sie den Text und die Klassen der Schaltfläche „Bearbeiten“, um die Erstellung eines neuen Benutzers widerzuspiegeln.
 
-## 6. `cleanObj`- und `cleanFields`-Funktionen:
+## 6. cleanObj- und `cleanFields`-Funktionen:
 - Sie löschen das `Benutzerobjekt` bzw. die Formularfelder.
 
-## 7. `validateFields`-Funktion:
+## 7. validateFields-Funktion:
 - Überprüfen Sie, ob die Formularfelder leer sind.
 - Wenn ein Feld leer ist, wird eine Warnung angezeigt und `isValid` auf „false“ gesetzt.
 - Wenn alle Felder ausgefüllt sind, setzen Sie `isValid` auf true.
 
-## 8. Funktion zum `Generieren von PDFs`:
+## 8. Funktion zum Generieren von PDFs:
 - Wird ausgelöst, wenn auf eine Schaltfläche geklickt wird (das Ereignis `„preventDefault“` verhindert dies zur manuellen Steuerung).
 - Prüft, ob die Tabelle Daten enthält. Wenn es leer ist, wird eine Warnung angezeigt und die Funktion beendet.
 - Rufen Sie die Funktion `traverseTable` auf, um den Tabellentext abzurufen.
