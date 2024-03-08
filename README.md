@@ -99,10 +99,20 @@ ALTER TABLE Freelancerauftrag ADD FOREIGN KEY (id_Freelancer) REFERENCES Freelan
 ALTER TABLE Freelancerauftrag ADD FOREIGN KEY (id_Vorgang) REFERENCES Vorgang(id_Vorgang);
 
 -- Geben Sie Daten in die Tabelle ein
-INSERT INTO `abteilung` (`id_Abteilung`, `Bezeichnung`, `created_at`) VALUES (NULL, 'IT', CURRENT_TIMESTAMP);
-INSERT INTO `abteilung` (`id_Abteilung`, `Bezeichnung`, `created_at`) VALUES (NULL, 'Marketing', CURRENT_TIMESTAMP);
-INSERT INTO `abteilung` (`id_Abteilung`, `Bezeichnung`, `created_at`) VALUES (NULL, 'HR', CURRENT_TIMESTAMP);
-INSERT INTO `abteilung` (`id_Abteilung`, `Bezeichnung`, `created_at`) VALUES (NULL, 'Entwicklung', CURRENT_TIMESTAMP);
+INSERT INTO Abteilung (Bezeichnung)
+VALUES ("IT");
+
+INSERT INTO Abteilung (Bezeichnung)
+VALUES ("Marketing");
+
+INSERT INTO Abteilung (Bezeichnung)
+VALUES ("HR");
+
+INSERT INTO Abteilung (Bezeichnung)
+VALUES ("Entwicklung");
+
+INSERT INTO Abteilung (Bezeichnung)
+VALUES ("Support");
 
 -- Tabellen zeigen
 SELECT * FROM `abteilung` WHERE 1;
