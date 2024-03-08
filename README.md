@@ -114,6 +114,9 @@ VALUES ("Entwicklung");
 INSERT INTO Abteilung (Bezeichnung)
 VALUES ("Support");
 
+INSERT INTO Mitarbeiter (Familienname, Vorname, id_Abteilung)
+VALUES ('Paz', 'Dwn', 4);
+
 -- Tabellen zeigen
 SELECT * FROM `abteilung` WHERE 1;
 SELECT * FROM `abteilung` WHERE `id_Abteilung`= 1;
