@@ -38,7 +38,7 @@ Ein leeres `Benutzerobjekt` wird definiert, um die Informationen des aktuellen B
 - Aktualisiert den Inhalt der Zeilenzellen mit den Werten der Formularfelder.
 - Ändern Sie den Text und die Klassen der Schaltfläche „Bearbeiten“, um die Erstellung eines neuen Benutzers widerzuspiegeln.
 
-## 6. cleanObj- und `cleanFields`-Funktionen:
+## 6. cleanObj- und cleanFields-Funktionen:
 - Sie löschen das `Benutzerobjekt` bzw. die Formularfelder.
 
 ## 7. validateFields-Funktion:
