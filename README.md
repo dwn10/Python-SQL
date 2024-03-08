@@ -32,10 +32,10 @@ const Projects = {
 
 ## Erstellen Sie ein ER-Diagramm: 
 
-<a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215441874479743037/projekt-sql-1.JPG?ex=65fcc374&is=65ea4e74&hm=603126a54b9a526f562b5cea21b4e92ae1176758dff6f367933c553338815de7&=&format=webp&width=1087&height=597" style="height: 80%; width:80%;"/></a>
+<a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215441874479743037/projekt-sql-1.JPG?ex=65fcc374&is=65ea4e74&hm=603126a54b9a526f562b5cea21b4e92ae1176758dff6f367933c553338815de7&=&format=webp&width=1087&height=597" style="height: 100%; width:100%;"/></a>
 
 ## Erstellen Sie ein SQL-Skript, das die Datenbank erzeugt:
-<a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215413136341868594/projekt-sql.JPG?ex=65fca8b0&is=65ea33b0&hm=b6fbdc61095a756db40c8e54d8ec48b2fb2037345de63fb48bf58abc5d92bfd2&=&format=webp&width=1021&height=597" style="height: 80%; width:80%;"/></a>
+<a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215413136341868594/projekt-sql.JPG?ex=65fca8b0&is=65ea33b0&hm=b6fbdc61095a756db40c8e54d8ec48b2fb2037345de63fb48bf58abc5d92bfd2&=&format=webp&width=1021&height=597" style="height: 100%; width:100%;"/></a>
 ```sql
 -- Datenbank erstellen
 CREATE DATABASE IF NOT EXISTS IT_System_GmbH;
@@ -111,7 +111,7 @@ SELECT * FROM `abteilung` WHERE `id_Abteilung`= 1;
 ## Erstellen Sie ein CRUD-Applikation: 
 `>> IMG + VIDEO <<`
 
-<a href="https://media.discordapp.net/attachments/1185882189393575976/1215143276919787570/SQL.gif?ex=65fbad5d&is=65e9385d&hm=ebadd7e45bcb408cdbefd453efd1f7e536dfb658ca506f93cba0b1de3908a090&=&width=1062&height=597"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215142862778269749/18.JPG?ex=65fbacfa&is=65e937fa&hm=c17600d3ed6e21abdd34ab82cb81fee527f8169e1eae01cfc8fcb481f68ab454&=&format=webp&width=1439&height=579" style="height: 80%; width:80%;"/></a>
+<a href="https://media.discordapp.net/attachments/1185882189393575976/1215143276919787570/SQL.gif?ex=65fbad5d&is=65e9385d&hm=ebadd7e45bcb408cdbefd453efd1f7e536dfb658ca506f93cba0b1de3908a090&=&width=1062&height=597"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215142862778269749/18.JPG?ex=65fbacfa&is=65e937fa&hm=c17600d3ed6e21abdd34ab82cb81fee527f8169e1eae01cfc8fcb481f68ab454&=&format=webp&width=1439&height=579" style="height: 100%; width:100%;"/></a>
 
 ## Mini-CRUD-App | Formular zur Datenverwaltung:
 Mit der Anwendung können Benutzer Datensätze in einer Tabelle erstellen, bearbeiten und löschen die Tabelle im PDF-Format generieren.
