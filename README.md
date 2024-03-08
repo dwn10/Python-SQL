@@ -35,7 +35,7 @@ const Projects = {
 <a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215441874479743037/projekt-sql-1.JPG?ex=65fcc374&is=65ea4e74&hm=603126a54b9a526f562b5cea21b4e92ae1176758dff6f367933c553338815de7&=&format=webp&width=1087&height=597" style="height: 100%; width:100%;"/></a>
 
 ## Erstellen Sie ein SQL-Skript, das die Datenbank erzeugt:
-<a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215413136341868594/projekt-sql.JPG?ex=65fca8b0&is=65ea33b0&hm=b6fbdc61095a756db40c8e54d8ec48b2fb2037345de63fb48bf58abc5d92bfd2&=&format=webp&width=1021&height=597" style="height: 100%; width:100%;"/></a>
+<a href="#"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215682634353483794/projekt-sql-2.JPG?ex=65fda3ae&is=65eb2eae&hm=4e2445fb8b7c20f10769131240bbbb97ab4542b540c7947be5df5667640b47ab&=&format=webp&width=1063&height=597" style="height: 100%; width:100%;"/></a>
 ```sql
 -- Datenbank erstellen
 CREATE DATABASE IF NOT EXISTS IT_System_GmbH;
