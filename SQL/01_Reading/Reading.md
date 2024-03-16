@@ -1,14 +1,4 @@
-# SQL - LT4V2 - Projekt
-Verwendete Technologien:
-
-```javascript
-const Projects = {
-  	code: ["HTML", "CSS", "Javascript", "SQL"],
-	technologies: {
-	devTool: ["VS-Code", "PHP MyAdmin", "Xampp", "DB-Diagram"]
-	}
-}
-```
+# SQL - READING
 
 
 ```sql
