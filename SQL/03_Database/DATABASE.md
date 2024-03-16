@@ -1,14 +1,13 @@
 # SQL - DATABASE
 
-
+# CREATE DATABASE
 ```sql
-CREATE DATABASE
-
 -- Crea una base de datos llamada "test"
 CREATE DATABASE test;
--- -----------------------------------------------
-DROP DATABASE
+```
 
+# DROP DATABASE
+```sql
 -- Elimina la base de datos llamada "test"
 DROP DATABASE test;
 
