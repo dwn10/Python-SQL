@@ -1,8 +1,7 @@
 # SQL - READING
 
-
+# COMMENTS
 ```sql
-COMMENTS
 /*
 COMENTAROS
 */
