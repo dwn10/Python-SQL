@@ -32,10 +32,10 @@ const Projects = {
 
 ## Erstellen Sie ein Relation-Modell:
 
-<a href="#"><img src="#" style="height: 80%; width:80%;"/></a>
+<a href="https://github.com/dwn10/SQL-LT4V2-Projekt/blob/main/readme-images/projekt-sql-1.JPG"><img src="https://github.com/dwn10/SQL-LT4V2-Projekt/blob/main/readme-images/projekt-sql-1.JPG" style="height: 80%; width:80%;"/></a>
 
 ## Erstellen Sie ein SQL-Skript, das die Datenbank erzeugt:
-<a href="#"><img src="#" style="height: 80%; width:80%;"/></a>
+<a href="https://github.com/dwn10/SQL-LT4V2-Projekt/blob/main/readme-images/projekt-sql-2.JPG?raw=true"><img src="https://github.com/dwn10/SQL-LT4V2-Projekt/blob/main/readme-images/projekt-sql-2.JPG?raw=true" style="height: 80%; width:80%;"/></a>
 ```sql
 -- Datenbank erstellen
 CREATE DATABASE IF NOT EXISTS IT_System_GmbH;
@@ -150,7 +150,7 @@ SELECT * FROM `abteilung` WHERE `id_Abteilung`= 1;
 ## Erstellen Sie ein CRUD-Applikation: 
 `>> IMG + VIDEO <<`
 
-<a href="#"><img src="#" style="height: 80%; width:80%;"/></a>
+<a href="https://github.com/dwn10/SQL-LT4V2-Projekt/blob/main/readme-images/SQL.gif?raw=true"><img src="https://github.com/dwn10/SQL-LT4V2-Projekt/blob/main/readme-images/SQL_img.png?raw=true" style="height: 80%; width:80%;"/></a>
 
 ## Mini-CRUD-App | Formular zur Datenverwaltung:
 Mit der Anwendung können Benutzer Datensätze in einer Tabelle erstellen, bearbeiten und löschen die Tabelle im PDF-Format generieren.
