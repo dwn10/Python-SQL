@@ -30,12 +30,12 @@ const Projects = {
 - Dokumentation, welche die User-Story beschreibt und die Besonderheiten, und in der die Diagramme zu finden sind.
 - Erstellen Sie ein Applikation mit html, css und javascript, um Daten einzugeben, zu ändern, löschen und Abfragen zu tätigen
 
-## Erstellen Sie ein Relation-Modell: 
+## Erstellen Sie ein Relation-Modell:
 
-<a href="https://media.discordapp.net/attachments/1214730549969813504/1215441874479743037/projekt-sql-1.JPG?ex=65fcc374&is=65ea4e74&hm=603126a54b9a526f562b5cea21b4e92ae1176758dff6f367933c553338815de7&=&format=webp&width=1087&height=597"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215441874479743037/projekt-sql-1.JPG?ex=65fcc374&is=65ea4e74&hm=603126a54b9a526f562b5cea21b4e92ae1176758dff6f367933c553338815de7&=&format=webp&width=1087&height=597" style="height: 100%; width:100%;"/></a>
+<a href="#"><img src="#" style="height: 80%; width:80%;"/></a>
 
 ## Erstellen Sie ein SQL-Skript, das die Datenbank erzeugt:
-<a href="https://media.discordapp.net/attachments/1214730549969813504/1215682634353483794/projekt-sql-2.JPG?ex=65fda3ae&is=65eb2eae&hm=4e2445fb8b7c20f10769131240bbbb97ab4542b540c7947be5df5667640b47ab&=&format=webp&width=1063&height=597"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215682634353483794/projekt-sql-2.JPG?ex=65fda3ae&is=65eb2eae&hm=4e2445fb8b7c20f10769131240bbbb97ab4542b540c7947be5df5667640b47ab&=&format=webp&width=1063&height=597" style="height: 100%; width:100%;"/></a>
+<a href="#"><img src="#" style="height: 80%; width:80%;"/></a>
 ```sql
 -- Datenbank erstellen
 CREATE DATABASE IF NOT EXISTS IT_System_GmbH;
@@ -150,7 +150,7 @@ SELECT * FROM `abteilung` WHERE `id_Abteilung`= 1;
 ## Erstellen Sie ein CRUD-Applikation: 
 `>> IMG + VIDEO <<`
 
-<a href="https://media.discordapp.net/attachments/1185882189393575976/1215143276919787570/SQL.gif?ex=65fbad5d&is=65e9385d&hm=ebadd7e45bcb408cdbefd453efd1f7e536dfb658ca506f93cba0b1de3908a090&=&width=1062&height=597"><img src="https://media.discordapp.net/attachments/1214730549969813504/1215142862778269749/18.JPG?ex=65fbacfa&is=65e937fa&hm=c17600d3ed6e21abdd34ab82cb81fee527f8169e1eae01cfc8fcb481f68ab454&=&format=webp&width=1439&height=579" style="height: 100%; width:100%;"/></a>
+<a href="#"><img src="#" style="height: 80%; width:80%;"/></a>
 
 ## Mini-CRUD-App | Formular zur Datenverwaltung:
 Mit der Anwendung können Benutzer Datensätze in einer Tabelle erstellen, bearbeiten und löschen die Tabelle im PDF-Format generieren.
